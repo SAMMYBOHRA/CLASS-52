@@ -1,0 +1,38 @@
+  * {
+            background-color:#00ffff;
+           }
+
+          h1{
+             color:#ff1493;
+           }
+           .CONTENT{
+               font: size 25px;
+               color:#d2691e;
+           }
+           .IMAGE{
+               display:flex;
+               justify-content: space-evenly;
+
+           }
+           a:link{
+             color: teal;
+            }
+           a:visited{
+               color: black;
+           }
+
+           .img:hover img {
+             opacity: 0.33;
+             transform: scale(1.5);
+           }
+
+           .footer:hover h1{
+             opacity: 0.25;
+           }
+
+           .heading{
+             border:solid;
+             margin-left: 20px;
+             padding-left: 50px;
+           }
+     
